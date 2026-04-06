@@ -1,30 +1,18 @@
-# Kimplify
+# Hi, we're Kimplify
 
-Small, focused Kotlin Multiplatform libraries that make common problems simple.
+We build small, friendly Kotlin Multiplatform libraries that each do one thing well.
 
-We build lightweight, well-tested utilities for everyday needs in KMP projects —
-decimal math, currency formatting, localized country data, and logging. Every
-library targets Android, iOS, JVM, and beyond.
+Everything we ship works on Android, iOS, JVM, and beyond — drop a library into your KMP project and get back to building your app.
 
-## Libraries
+## Our libraries
 
-- **[Deci](https://github.com/Kimplify/Deci)** — Precise decimal arithmetic for
-  Kotlin Multiplatform, with high-precision operations across every target.
-- **[Kurrency](https://github.com/Kimplify/Kurrency)** — Type-safe currency
-  formatting for Kotlin Multiplatform, with Compose support.
-- **[KCountries](https://github.com/Kimplify/KCountries)** — ISO 3166-1 country
-  data with native names and multilingual support.
-- **[Cedar-Logger](https://github.com/Kimplify/Cedar-Logger)** — Timber-like
-  lightweight logging for Kotlin Multiplatform, with a pluggable tree architecture.
+- **[Deci](https://github.com/Kimplify/Deci)** — Precise decimal math for money and more.
+- **[Kurrency](https://github.com/Kimplify/Kurrency)** — Friendly currency formatting, Compose-ready.
+- **[KCountries](https://github.com/Kimplify/KCountries)** — Country data with native names and translations.
+- **[Cedar-Logger](https://github.com/Kimplify/Cedar-Logger)** — Lightweight logging you'll actually enjoy using.
 
-## Principles
+## Join in
 
-- **Multiplatform first** — every library ships for Android, iOS, JVM, and beyond.
-- **Small and focused** — one problem, solved well.
-- **Type-safe APIs** — leverage Kotlin's type system over stringly-typed interfaces.
-- **Production-ready** — tested, documented, and versioned.
+Got feedback, ideas, or bug reports? Open an issue on any repo — we read everything and love hearing from you. Pull requests are very welcome too.
 
-## License
-
-Libraries are released under the Apache License 2.0 unless noted otherwise.
-See individual repositories for details.
+Everything we build is open source under the Apache 2.0 license.
